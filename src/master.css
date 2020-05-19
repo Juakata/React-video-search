@@ -1,0 +1,8 @@
+.my-item {
+  display: flex !important;
+  cursor: pointer;
+}
+
+.item.my-item img {
+  max-width: 180px;
+}
